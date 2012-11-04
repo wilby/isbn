@@ -1,0 +1,30 @@
+﻿@model ISBN.Web.Areas.Admin.Models.RoleUsers
+
+@{
+    ViewBag.Title = "AddUserToRole";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add User To Role</h2>
+
+
+
+    @Html.LabelFor(x => x.RoleName)
+<p>
+    @Html.DisplayFor(x => x.RoleName)
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.RoleName);
+    @Html.TextBoxFor(x => x.UserName);
+    <input type="submit" value="Add User To @Model.RoleName" />
+}
+
+<label>Users in @Model.RoleName</label>
+<ul>
+    @foreach (var user in Model.UserNames)
+    {
+        <li>@user</li>
+    }
+</ul>

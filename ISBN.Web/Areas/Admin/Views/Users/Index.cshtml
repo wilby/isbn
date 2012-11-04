@@ -1,0 +1,49 @@
+﻿@model System.Web.Security.MembershipUserCollection
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table>
+    <tr>
+        <th></th>
+        <th>User Name</th>
+        <th>Email</th>
+        <th>Create Date</th>
+        <th>Approved</th>
+        <th>Online</th>
+        <th>Locked Out</th>
+        <th>Last Activity</th>
+        <th>Last Login</th>
+        <th>Last Lockout</th>
+        <th>Last Password Change</th>
+    </tr>
+    @foreach (MembershipUser user in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink("Delete User", "DeleteUser") |
+                @if(user.IsLockedOut) {
+                    @Html.ActionLink("Unlock User", "UnlockUser") <span>|</span>
+                }
+                @if(!user.IsApproved) {
+                    @Html.ActionLink("Approve User", "ApproveUser") <span>|</span>
+                }
+                @Html.ActionLink("Reset Password", "ResetPassword", new {username= user.UserName})
+            </td>
+            <td>@user.UserName</td>
+            <td>@user.Email</td>
+            <td>@user.CreationDate.ToShortDateString()</td>            
+            <td class="@user.IsApproved">@user.IsApproved</td>
+            <td class="@user.IsOnline">@user.IsOnline</td>
+            <td class="@user.IsLockedOut">@user.IsLockedOut</td>
+            <td>@user.LastActivityDate</td>
+            <td>@user.LastLoginDate</td>
+            <td>@user.LastLockoutDate.ToShortDateString()</td>
+            <td>@user.LastPasswordChangedDate.ToShortDateString()</td>            
+        </tr>
+    }
+</table>

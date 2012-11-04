@@ -1,0 +1,102 @@
+﻿@model IEnumerable<ISBN.Web.Models.BookModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section js {
+<script type="text/javascript">
+    $(function () {
+        var setAction = function () {
+            var $isbn = $("#frmISBN");
+            var action = $isbn.attr("action");
+            var isbn = $("#isbn").val()
+            if (action.indexOf(isbn) === -1) {
+                var fullAction = action + isbn;
+                $isbn.attr("action", fullAction);
+            }
+        };
+
+        $("#isbn").keypress(function (event) {
+            if (event.which == 13) {
+                setAction();
+            }
+        }).focus();
+
+        $("#isbn").val('')
+
+        $("#frmISBN").attr("action", '@Url.Content("~/Books/Create/")');
+        
+    });
+</script>
+    
+}
+
+<h2>Books</h2>
+
+@if(User.IsInRole("Admins")) {       
+    <form method="POST" action="@Url.Content("~/Books/Create/")" id="frmISBN">
+        <h5>Add A Book</h5>
+        <p>Enter the ISBN or UPC for a book, then press enter.</p>
+        <label for="isbn">ISBN</label>
+        <input type="text" value="@ViewBag.ISBN"  id="isbn"/>
+    
+        @if (!string.IsNullOrEmpty(ViewBag.Error))
+        { 
+            <p style="color:Red;background-color:pink">ISBN @ViewBag.ISBN could not be found.</p>
+        }
+    </form>
+}
+<h5>Total Books: @Model.Count()</h5>
+
+<table>
+    <tr>
+        <th>
+            ISBN
+        </th>
+        <th>
+            ISBN13
+        </th>
+        <th>
+            Title
+        </th>        
+        <th>Publisher</th> 
+        @if(User.IsInRole("Admins")) {       
+        <th>Actions</th>
+        }
+        <th>Image</th>
+    </tr>
+@{ string previousAuthor = string.Empty; }
+@foreach (var item in Model) {
+    if (item.Author.ToLower() != previousAuthor.ToLower())
+    {
+        <tr><th colspan="6" style="background-color: navy; color: white; font-weight: bolder;">Author: @item.Author.ToUpper()</th></tr>
+    }
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ISBN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ISBN13)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>        
+        <td class="@item.Publisher.Id">
+            @Html.DisplayFor(modelItem => item.Publisher.Name);
+        </td>
+        @if(User.IsInRole("Admins")) {       
+        <td>            
+            @Html.ActionLink("Delete", "Delete", new {  id=item.ISBN13  })
+        </td>
+        }
+        <td>
+            <img src='@string.Format("http://content-3.powells.com/cgi-bin/imageDB.cgi?isbn={0}", item.ISBN)' alt="book image" />
+        </td>
+    </tr>
+    previousAuthor = item.Author;
+}
+
+</table>
+

@@ -1,0 +1,969 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book isbn="0061020699" isbn13="9780061020698">
+    <title>Equal rites</title>
+    <author>Terry Pratchett</author>
+    <publisher publisher_id="harpertorch">New York, N.Y. : HarperTorch, 2000, c1987.</publisher>
+  </book>
+<book isbn13="9780441012046" isbn="0441012043"> <title>Come Armageddon</title> <author>Anne Perry, </author> <publisher publisher_id="ace_trade">Ace Trade</publisher> </book>
+  <book isbn="1416523359" isbn13="9781416523352">
+    <title>Lisey's Story: A Novel</title>
+    <author>Stephen King, </author>
+    <publisher publisher_id="pocket">Pocket</publisher>
+  </book>
+  <book isbn="0786914297" isbn13="9780786914296">
+    <title>Brothers in arms</title>
+    <author>Margaret Weis and Don Perrin</author>
+    <publisher publisher_id="tsr">Renton, Wash. ; TSR, 1999.</publisher>
+  </book>
+  <book isbn="0880387483" isbn13="9780880387484">
+    <title>Tantras</title>
+    <author>Richard Awlinson</author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0880387300" isbn13="9780880387309">
+    <title>Shadowdale</title>
+    <author>Scott Ciencin, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0880387599" isbn13="9780880387590">
+    <title>Waterdeep</title>
+    <author>Richard Awlinson, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0812505182" isbn13="9780812505184">
+    <title>The magic of Recluce</title>
+    <author>L. E. Modesitt, Jr</author>
+    <publisher publisher_id="tor_books">New York : Tor Books, 1991.</publisher>
+  </book>
+  <book isbn="0553577905" isbn13="9780553577907">
+    <title>Windhaven</title>
+    <author>GEORGE R.R. MARTIN, LISA TUTTLE</author>
+    <publisher publisher_id="spectra">Spectra</publisher>
+  </book>
+  <book isbn="078690710X" isbn13="9780786907106">
+    <title>Cormyr</title>
+    <author>Ed Greenwood, Jeff Grubb</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI : TSR, Inc., 1997.</publisher>
+  </book>
+  <book isbn="0553583425" isbn13="9780553583427">
+    <title>Hidden Warrior</title>
+    <author>LYNN FLEWELLING, </author>
+    <publisher publisher_id="spectra">Spectra</publisher>
+  </book>
+  <book isbn="0553575430" isbn13="9780553575439">
+    <title>Stalking darkness</title>
+    <author>Lynn Flewelling</author>
+    <publisher publisher_id="bantam_books">Bantam Books, c1997.</publisher>
+  </book>
+  <book isbn="0553577255" isbn13="9780553577259">
+    <title>Traitor's moon</title>
+    <author>Lynn Flewelling</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, c1999.</publisher>
+  </book>
+  <book isbn="0380716992" isbn13="9780380716999">
+    <title>Judgement Call</title>
+    <author>Suzy Wetlaufer, </author>
+    <publisher publisher_id="avon_books">Avon Books</publisher>
+  </book>
+  <book isbn="0880386525" isbn13="9780880386524">
+    <title>Dragonlance chronicles</title>
+    <author>by Margaret Weis and Tracy Hickman; poetry by Michael Williams; interior art by Denis Beauvais and Jeffrey Butler</author>
+    <publisher publisher_id="tsr">Lake Geneva, Wis. : TSR ; c1988.</publisher>
+  </book>
+  <book isbn="0880386533" isbn13="9780880386531">
+    <title>The DragonLance legends</title>
+    <author>by Margaret Weis and Tracy Hickman; poetry by Michael Williams; cover art by Larry Elmore; interior art by Valerie Valusek</author>
+    <publisher publisher_id="tsr">Lake Geneva, Wis., U.S.A. : TSR ; c1988.</publisher>
+  </book>
+  <book isbn="0880387173" isbn13="9780880387170">
+    <title>Darkwell</title>
+    <author>Douglas Niles, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0880385634" isbn13="9780880385633">
+    <title>Black wizards</title>
+    <author>by Douglas Niles; cover art by Keith Parkinson</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI : TSR, Inc., c1988.</publisher>
+  </book>
+  <book isbn="1560760605" isbn13="9781560760603">
+    <title>Song of the Saurials</title>
+    <author>Kate Novak, Jeff Grubb</author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0786907088" isbn13="9780786907083">
+    <title>Fistandantilus reborn</title>
+    <author>Douglas Niles</author>
+    <publisher publisher_id="tsr_inc">Renton, WA : TSR, Inc., 1998.</publisher>
+  </book>
+  <book isbn="0880385979" isbn13="9780880385978">
+    <title>Stormblade</title>
+    <author>Nancy Varian Berberick</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI. : TSR, Inc. ; 1988.</publisher>
+  </book>
+  <book isbn="0786915250" isbn13="9780786915255">
+    <title>Baldur's gate</title>
+    <author>Philip Athans; [edited by] Jess LeBow</author>
+    <publisher publisher_id="wizards_publishing">Renton, WA : Wizards Publishing, 1999.</publisher>
+  </book>
+  <book isbn="0880389028" isbn13="9780880389020">
+    <title>The wyvern's spur</title>
+    <author>Kate Novak and Jeff Grubb; cover art, Clyde Caldwell</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI, U.S.A. : TSR, c1990.</publisher>
+  </book>
+  <book isbn="0786929596" isbn13="9780786929597">
+    <title>Tangled webs</title>
+    <author>Elaine Cunningham</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, 2003.</publisher>
+  </book>
+  <book isbn="078690514X" isbn13="9780786905140">
+    <title>Daughter of the Drow</title>
+    <author>Elaine Cunningham</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR, [1996], c1995.</publisher>
+  </book>
+  <book isbn="0786915692" isbn13="9780786915699">
+    <title>Baldur's gate ii</title>
+    <author>Philip Athans</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, 2003.</publisher>
+  </book>
+  <book isbn="1560765577" isbn13="9781560765578">
+    <title>Realms of Valor</title>
+    <author></author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="078691565X" isbn13="9780786915651">
+    <title>Dalamar the dark</title>
+    <author>Nancy Varian Berberick</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, c2000.</publisher>
+  </book>
+  <book isbn="0880387351" isbn13="9780880387354">
+    <title>Pool of Radiance</title>
+    <author>James M. Ward, Jane Cooper Hong, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0880386258" isbn13="9780880386258">
+    <title>Weasel's luck</title>
+    <author>Michael Williams; cover art, Larry Elmore</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI : TSR, Inc. ; Distributed by Random House,</publisher>
+  </book>
+  <book isbn="0880385480" isbn13="9780880385480">
+    <title>The legend of Huma</title>
+    <author>Richard A. Knaak</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI, U.S.A. : TSR, c1988.</publisher>
+  </book>
+  <book isbn="0812575237" isbn13="9780812575231">
+    <title>Legends 2 </title>
+    <author>Terry Goodkind, George R. R. Martin, Anne McCaffrey, </author>
+    <publisher publisher_id="tor_books">Tor Books</publisher>
+  </book>
+  <book isbn="0786927461" isbn13="9780786927463">
+    <title>Elminster in hell</title>
+    <author>Ed Greenwood</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, 2002.</publisher>
+  </book>
+  <book isbn="0345383273" isbn13="9780345383273">
+    <title>Domes of fire</title>
+    <author></author>
+    <publisher publisher_id="ballantine_books">Ballantine Books, c1992.</publisher>
+  </book>
+  <book isbn="0786901896" isbn13="9780786901890">
+    <title>Dragons of summer flame</title>
+    <author>by Margaret Weis and Tracy Hickman; poetry by Michael Williams; art by Larry Elmore</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR ; c1995.</publisher>
+  </book>
+  <book isbn="0786906456" isbn13="9780786906451">
+    <title>The soulforge</title>
+    <author>by Margaret Weis; [foreword by Tracy Hickman]</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR, c1998.</publisher>
+  </book>
+  <book isbn="0880389052" isbn13="9780880389051">
+    <title>Homeland</title>
+    <author>R. A. Salvatore; cover art Jeff Easley</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR, c1990.</publisher>
+  </book>
+  <book isbn="0880385359" isbn13="9780880385350">
+    <title>The crystal shard</title>
+    <author>R. A. Salvatore; cover art, Larry Elmore</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI : TSR, Inc., c1988.</publisher>
+  </book>
+  <book isbn="088038901X" isbn13="9780880389013">
+    <title>The halfling's gem</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="tsr">Lake Geneva, Wis. : TSR, 1990.</publisher>
+  </book>
+  <book isbn="088038672X" isbn13="9780880386722">
+    <title>Streams of silver</title>
+    <author>R. A. Salvatore; cover art by Clyde Caldwell</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, Wis. : TSR, Inc., c1989.</publisher>
+  </book>
+  <book isbn="0880389206" isbn13="9780880389204">
+    <title>Exile</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, c2000.</publisher>
+  </book>
+  <book isbn="1560760478" isbn13="9781560760474">
+    <title>Sojourn</title>
+    <author>R.A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="1560764198" isbn13="9781560764199">
+    <title>Fallen Fortress</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="1560768606" isbn13="9781560768609">
+    <title>The Chaos Curse</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="1560763280" isbn13="9781560763284">
+    <title>Night Masks</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="1560763213" isbn13="9781560763215">
+    <title>In Sylvan Shadows</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="0880386126" isbn13="9780880386128">
+    <title>Azure bonds</title>
+    <author>Kate Novak and Jeff Grubb; cover art, Clyde Caldwell</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR, c1988.</publisher>
+  </book>
+  <book isbn="0345421930" isbn13="9780345421937">
+    <title>Bastion of darkness</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, c2000.</publisher>
+  </book>
+  <book isbn="0345421914" isbn13="9780345421913">
+    <title>Echoes of the fourth magic</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey_ballantine">New York : Del Rey/Ballantine, 1998.</publisher>
+  </book>
+  <book isbn="0441908721" isbn13="9780441908721">
+    <title>The woods out back</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="ace_books">New York : Ace Books, c1993.</publisher>
+  </book>
+  <book isbn="0441002285" isbn13="9780441002283">
+    <title>Dragonslayer's return</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="ace_books">New York : Ace Books, c1995.</publisher>
+  </book>
+  <book isbn="1593152140" isbn13="9781593152147">
+    <title>The Highwayman</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="cds_books">CDS Books</publisher>
+  </book>
+  <book isbn="0786929804" isbn13="9780786929801">
+    <title>The thousand Orcs</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, c2003.</publisher>
+  </book>
+  <book isbn="0812527607" isbn13="9780812527605">
+    <title>The Waiting Room</title>
+    <author>T. M. Wright, </author>
+    <publisher publisher_id="tom_doherty_assoc_llc">Tom Doherty Assoc Llc</publisher>
+  </book>
+  <book isbn="0425084469" isbn13="9780425084465">
+    <title>The Kingdoms of Terror</title>
+    <author>Joe Dever, Gary Chalk, </author>
+    <publisher publisher_id="pacer_books">Pacer Books</publisher>
+  </book>
+  <book isbn="0446604852" isbn13="9780446604857">
+    <title>The Dragon King</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="aspect">Aspect</publisher>
+  </book>
+  <book isbn="0441000789" isbn13="9780441000784">
+    <title>The Dragon's Dagger</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="ace">Ace</publisher>
+  </book>
+  <book isbn="0345421922" isbn13="9780345421920">
+    <title>The witch's daughter</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey_books">New York, NY : Del Rey Books, 1999.</publisher>
+  </book>
+  <book isbn="0786918985" isbn13="9780786918980">
+    <title>Sea of swords</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast ; c2001.</publisher>
+  </book>
+  <book isbn="0786914181" isbn13="9780786914180">
+    <title>The Spine of the World</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0786911808" isbn13="9780786911806">
+    <title>The silent blade</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="tsr">Renton, WA : TSR ; c1998.</publisher>
+  </book>
+  <book isbn="0786916575" isbn13="9780786916573">
+    <title>Servant of the shard</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast, c2000.</publisher>
+  </book>
+  <book isbn="1560765291" isbn13="9781560765295">
+    <title>The Legacy</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="1560766530" isbn13="9781560766537">
+    <title>STARLESS NIGHT</title>
+    <author>R.A. Salvatore, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="1560768886" isbn13="9781560768883">
+    <title>Siege of darkness</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="tsr">Lake Geneva, WI : TSR, 1994.</publisher>
+  </book>
+  <book isbn="0786908343" isbn13="9780786908349">
+    <title>Passage to Dawn</title>
+    <author>R. A. Salvatore, </author>
+    <publisher publisher_id="tsr">TSR</publisher>
+  </book>
+  <book isbn="0345391497" isbn13="9780345391490">
+    <title>The demon awakens</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey">New York : Del Rey, 1997.</publisher>
+  </book>
+  <book isbn="0345430409" isbn13="9780345430403">
+    <title>Ascendance</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey">New York : Del Rey, 2001.</publisher>
+  </book>
+  <book isbn="0345430417" isbn13="9780345430410">
+    <title>Transcendence</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey">New York : Del Rey, 2002.</publisher>
+  </book>
+  <book isbn="0786930128" isbn13="9780786930128">
+    <title>The lone drow</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast ; c2003.</publisher>
+  </book>
+  <book isbn="0446517275" isbn13="9780446517270">
+    <title>Luthien's gamble</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="warner_books">New York : Warner Books, c1996.</publisher>
+  </book>
+  <book isbn="0446517267" isbn13="9780446517263">
+    <title>The sword of Bedwyr</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="warner_books">New York : Warner Books, c1995.</publisher>
+  </book>
+  <book isbn="0345391519" isbn13="9780345391513">
+    <title>The demon spirit</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey_ballantine_pub_group">New York : Del Rey/Ballantine Pub. Group, 1998.</publisher>
+  </book>
+  <book isbn="0345430395" isbn13="9780345430397">
+    <title>Mortalis</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="del_rey_ballantine_pub_group">New York : Del Rey/Ballantine Pub. Group, 2000.</publisher>
+  </book>
+  <book isbn="0345391535" isbn13="9780345391537">
+    <title>The demon apostle</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="ballantine_pub_group">New York : Ballantine Pub. Group, 1999.</publisher>
+  </book>
+  <book isbn="0451128370" isbn13="9780451128379">
+    <title>Christine</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="new_american_library">New York : New American Library, 1983.</publisher>
+  </book>
+  <book isbn="0451163524" isbn13="9780451163523">
+    <title>The drawing of the three</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="signet">New York : Signet, [1990]</publisher>
+  </book>
+  <book isbn="0451160525" isbn13="9780451160522">
+    <title>The dark tower, the gunslinger</title>
+    <author>by Stephen King</author>
+    <publisher publisher_id="new_american_library">New York : New American Library, 1989, c1982.</publisher>
+  </book>
+  <book isbn="0451173317" isbn13="9780451173317">
+    <title>The waste lands</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="signet">New York, N.Y. : Signet, 1993.</publisher>
+  </book>
+  <book isbn="0618343997" isbn13="9780618343997">
+    <title>The lord of the rings</title>
+    <author>by J. R. R. Tolkien</author>
+    <publisher publisher_id="houghton_mifflin">Boston : Houghton Mifflin, [2003]</publisher>
+  </book>
+  <book isbn="0880384514" isbn13="9780880384513">
+    <title>Darkwalker on Moonshae</title>
+    <author>Douglas Niles, </author>
+    <publisher publisher_id="wizards_of_the_coast">Wizards of the Coast</publisher>
+  </book>
+  <book isbn="0452279178" isbn13="9780452279179">
+    <title>Wizard and glass</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="plume_a01">New York : Plume, c1997.</publisher>
+  </book>
+  <book isbn="0451126505" isbn13="9780451126504">
+    <title>Cujo</title>
+    <author>Stephen King, </author>
+    <publisher publisher_id="signet">Signet</publisher>
+  </book>
+  <book isbn="0670813648" isbn13="9780670813643">
+    <title>Misery</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="viking">New York : Viking, 1987.</publisher>
+  </book>
+  <book isbn="0451147367" isbn13="9780451147363">
+    <title>The Bachman books</title>
+    <author>by Stephen King</author>
+    <publisher publisher_id="new_american_library">New York : New American Library, 1986.</publisher>
+  </book>
+  <book isbn="0385007515" isbn13="9780385007511">
+    <title>'Salem's lot</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="doubleday">Garden City, N.Y. : Doubleday, 1975.</publisher>
+  </book>
+  <book isbn="0964729237" isbn13="9780964729230">
+    <title>The shack</title>
+    <author>by William P. Young</author>
+    <publisher publisher_id="windblown_media">Newbury Park, Calif. : Windblown Media, c2007.</publisher>
+  </book>
+  <book isbn="0451170113" isbn13="9780451170118">
+    <title>Night Shift</title>
+    <author>Stephen King, </author>
+    <publisher publisher_id="signet_book">Signet Book</publisher>
+  </book>
+  <book isbn="0451162072" isbn13="9780451162076">
+    <title>Pet sematary</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="doubleday">Garden City, N.Y. : Doubleday, 1983.</publisher>
+  </book>
+  <book isbn="0451157443" isbn13="9780451157447">
+    <title>Carrie</title>
+    <author>[by] Stephen King</author>
+    <publisher publisher_id="doubleday">Doubleday, c1974.</publisher>
+  </book>
+  <book isbn="0061020672" isbn13="9780061020674">
+    <title>Sourcery, a novel of discworld</title>
+    <author></author>
+    <publisher publisher_id="harpertorch">HarperTorch, c2001.</publisher>
+  </book>
+  <book isbn="0380818191" isbn13="9780380818198">
+    <title>Truth, The</title>
+    <author>Terry Pratchett</author>
+    <publisher publisher_id="harpertorch">HarperTorch</publisher>
+  </book>
+  <book isbn="0886775272" isbn13="9780886775278">
+    <title>Black sun rising</title>
+    <author>C. S. Friedman</author>
+    <publisher publisher_id="daw_books">New York, NY : DAW Books, 1992, c1991.</publisher>
+  </book>
+  <book isbn="0345339703" isbn13="9780345339706">
+    <title>The fellowship of the Ring</title>
+    <author>with a new foreword by the author, J. R. R. Tolkien</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, c1982.</publisher>
+  </book>
+  <book isbn="0816038392" isbn13="9780816038398">
+    <title>Tae kwon do</title>
+    <author>Yeon Hee Park, Yeon Hwan Park, Jon Gerrard</author>
+    <publisher publisher_id="facts_on_file">New York, NY : Facts on File, 1999</publisher>
+  </book>
+  <book isbn="042511984X" isbn13="9780425119846">
+    <title>The face of fear</title>
+    <author>Dean R. Koontz</author>
+    <publisher publisher_id="berkley_books">New York : Berkley Books, c1977.</publisher>
+  </book>
+  <book isbn="0345339703" isbn13="9780345339706">
+    <title>The fellowship of the Ring</title>
+    <author>with a new foreword by the author, J. R. R. Tolkien</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, c1982.</publisher>
+  </book>
+  <book isbn="0812566645" isbn13="9780812566642">
+    <title>Legends</title>
+    <author>Robert Silverberg (Editor)</author>
+    <publisher publisher_id="tor_books">Tor Books</publisher>
+  </book>
+  <book isbn="0312857691" isbn13="9780312857691">
+    <title>The path of daggers</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : Tor, 1998.</publisher>
+  </book>
+  <book isbn="0312857675" isbn13="9780312857677">
+    <title>A crown of swords</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : TOR, 1996.</publisher>
+  </book>
+  <book isbn="0312854277" isbn13="9780312854270">
+    <title>The fires of heaven</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : TOR, c 1993.</publisher>
+  </book>
+  <book isbn="0312851405" isbn13="9780312851408">
+    <title>The great hunt</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tom_doherty_associates">New York : Tom Doherty Associates, 1990.</publisher>
+  </book>
+  <book isbn="1904233201" isbn13="9781904233206">
+    <title>The Eye of the World</title>
+    <author>Robert Jordan, </author>
+    <publisher publisher_id="atom">ATOM</publisher>
+  </book>
+  <book isbn="0312854315" isbn13="9780312854317">
+    <title>The shadow rising</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : TOR, 1992.</publisher>
+  </book>
+  <book isbn="0765305119" isbn13="9780765305114">
+    <title>The dragon reborn</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : Tor, 1991.</publisher>
+  </book>
+  <book isbn="0061056928" isbn13="9780061056925">
+    <title>Lords and ladies</title>
+    <author>Terry Pratchett</author>
+    <publisher publisher_id="harperprism">New York : HarperPrism, c1996.</publisher>
+  </book>
+  <book isbn="1556903227" isbn13="9781556903229">
+    <title>The Two Towers</title>
+    <author>J. R. R. Tolkien, Rob Inglis (Narrator)</author>
+    <publisher publisher_id="recorded_books">Recorded Books</publisher>
+  </book>
+  <book isbn="0345285549" isbn13="9780345285546">
+    <title>The Elfstones of Shannara</title>
+    <author>Terry Brooks; illustrated by Darrell K. Sweet</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1984, 1982.</publisher>
+  </book>
+  <book isbn="0380818612" isbn13="9780380818617">
+    <title>Paladin of Souls</title>
+    <author>Lois McMaster Bujold, </author>
+    <publisher publisher_id="harpertorch">HarperTorch</publisher>
+  </book>
+  <book isbn="1568650124" isbn13="9781568650128">
+    <title>The Lost Swords</title>
+    <author>Fred Saberhagen, </author>
+    <publisher publisher_id="doubleday_books">Doubleday Books</publisher>
+  </book>
+  <book isbn="0345375599" isbn13="9780345375599">
+    <title>The druid of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_books">Ballantine Books, 1992, c1991.</publisher>
+  </book>
+  <book isbn="0671027360" isbn13="9780671027360">
+    <title>Angels &amp; demons</title>
+    <author>Dan Brown</author>
+    <publisher publisher_id="pocket_books">New York : Pocket Books c2000.</publisher>
+  </book>
+  <book isbn="0345370740" isbn13="9780345370747">
+    <title>The scions of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine">New York : Ballantine, 1991, c1990.</publisher>
+  </book>
+  <book isbn="0345314255" isbn13="9780345314253">
+    <title>The sword of Shannara</title>
+    <author>Terry Brooks; illustrated by the Brothers Hildebrandt</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1991.</publisher>
+  </book>
+  <book isbn="0345396537" isbn13="9780345396532">
+    <title>First king of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1997, c1996.</publisher>
+  </book>
+  <book isbn="0345397673" isbn13="9780345397676">
+    <title>Antrax</title>
+    <author>TERRY BROOKS</author>
+    <publisher publisher_id="del_rey">Del Rey</publisher>
+  </book>
+  <book isbn="0345396553" isbn13="9780345396556">
+    <title>Ilse witch</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_pub_group">New York : Ballantine Pub. Group, c2000.</publisher>
+  </book>
+  <book isbn="0345435753" isbn13="9780345435750">
+    <title>Morgawr</title>
+    <author>TERRY BROOKS</author>
+    <publisher publisher_id="del_rey">Del Rey</publisher>
+  </book>
+  <book isbn="0446531057" isbn13="9780446531054">
+    <title>Mystic warrior</title>
+    <author>Tracy and Laura Hickman</author>
+    <publisher publisher_id="warner_books">New York : Warner Books, c2004.</publisher>
+  </book>
+  <book isbn="0380977109" isbn13="9780380977109">
+    <title>Exile's return</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="eos">New York : Eos, c2005.</publisher>
+  </book>
+  <book isbn="0345386744" isbn13="9780345386748">
+    <title>The talismans of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1994, c1993.</publisher>
+  </book>
+  <book isbn="0345356365" isbn13="9780345356369">
+    <title>The wishsong of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1985.</publisher>
+  </book>
+  <book isbn="0060792787" isbn13="9780060792787">
+    <title>Flight of the nighthawks</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="eos">New York : EOS, 2006.</publisher>
+  </book>
+  <book isbn="0446532282" isbn13="9780446532280">
+    <title>The Younger Gods</title>
+    <author>David Eddings, Leigh Eddings, </author>
+    <publisher publisher_id="aspect">Aspect</publisher>
+  </book>
+  <book isbn="1568650094" isbn13="9781568650098">
+    <title>The Complete Book of Swords</title>
+    <author>Fred Saberhagen, </author>
+    <publisher publisher_id="doubleday_books">Doubleday Books</publisher>
+  </book>
+  <book isbn="0886778891" isbn13="9780886778897">
+    <title>Brightly burning</title>
+    <author>Mercedes Lackey</author>
+    <publisher publisher_id="daw_books_inc">New York : DAW Books, Inc., c2000.</publisher>
+  </book>
+  <book isbn="0756402069" isbn13="9780756402068">
+    <title>Exile's valor</title>
+    <author></author>
+    <publisher publisher_id="daw_books">Daw Books, 2003.</publisher>
+  </book>
+  <book isbn="0756400856" isbn13="9780756400859">
+    <title>Exile's honor</title>
+    <author>Mercedes Lackey</author>
+    <publisher publisher_id="daw_books">New York : DAW Books, c2002.</publisher>
+  </book>
+  <book isbn="0786927143" isbn13="9780786927142">
+    <title>Dissolution</title>
+    <author>Richard Lee Byers</author>
+    <publisher publisher_id="wizards_of_the_coast">Renton, WA : Wizards of the Coast ; c2002.</publisher>
+  </book>
+  <book isbn="0886777542" isbn13="9780886777548">
+    <title>Owlflight</title>
+    <author>Mercedes Lackey &amp; Larry Dixon</author>
+    <publisher publisher_id="daw_books">New York : DAW Books, c1997.</publisher>
+  </book>
+  <book isbn="0345396529" isbn13="9780345396525">
+    <title>First king of Shannara</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1996.</publisher>
+  </book>
+  <book isbn="0345396545" isbn13="9780345396549">
+    <title>Ilse Witch</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="del_rey">Del Rey, c2000.</publisher>
+  </book>
+  <book isbn="0345435737" isbn13="9780345435736">
+    <title>Jarka Ruus</title>
+    <author>Terry Brooks</author>
+    <publisher publisher_id="del_rey">New York : Del Rey, c2003.</publisher>
+  </book>
+  <book isbn="0812551478" isbn13="9780812551471">
+    <title>Blood of the fold</title>
+    <author>Terry Goodkind</author>
+    <publisher publisher_id="tor">New York : Tor, 1997.</publisher>
+  </book>
+  <book isbn="081257639X" isbn13="9780812576399">
+    <title>Faith of the fallen</title>
+    <author>Terry Goodkind</author>
+    <publisher publisher_id="tor">New York : Tor, 2001, c2000.</publisher>
+  </book>
+  <book isbn="0345373235" isbn13="9780345373236">
+    <title>The hidden city</title>
+    <author>David Eddings</author>
+    <publisher publisher_id="ballantine_books">Ballantine Books, c1994.</publisher>
+  </book>
+  <book isbn="0553573403" isbn13="9780553573404">
+    <title>A game of thrones</title>
+    <author>George R. R. Martin</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, 1997, c1996.</publisher>
+  </book>
+  <book isbn="0312854285" isbn13="9780312854287">
+    <title>Lord of chaos</title>
+    <author>Robert Jordan</author>
+    <publisher publisher_id="tor">New York : TOR, c1994.</publisher>
+  </book>
+  <book isbn="055357342X" isbn13="9780553573428">
+    <title>A Storm of Swords</title>
+    <author>GEORGE R.R. MARTIN</author>
+    <publisher publisher_id="spectra">Spectra</publisher>
+  </book>
+  <book isbn="0380716291" isbn13="9780380716296">
+    <title>In the hall of the dragon king</title>
+    <author>Stephen R. Lawhead</author>
+    <publisher publisher_id="avon_books">New York : AVON Books ; c1982.</publisher>
+  </book>
+  <book isbn="1568650191" isbn13="9781568650197">
+    <title>The Last Herald-Mage</title>
+    <author>Mercedes Lackey, </author>
+    <publisher publisher_id="doubleday_books">Doubleday Books</publisher>
+  </book>
+  <book isbn="0380977079" isbn13="9780380977079">
+    <title>Krondor</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="avon_eos">New York : Avon Eos, c1999.</publisher>
+  </book>
+  <book isbn="0380977095" isbn13="9780380977093">
+    <title>King of foxes</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="eos">New York : EOS, c2004.</publisher>
+  </book>
+  <book isbn="0380977087" isbn13="9780380977086">
+    <title>Talon of the silver hawk</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="eos">New York : Eos, 2003.</publisher>
+  </book>
+  <book isbn="0451459652" isbn13="9780451459657">
+    <title>The last light of the sun</title>
+    <author>Guy Gavriel Kay</author>
+    <publisher publisher_id="roc">New York : ROC, c2004.</publisher>
+  </book>
+  <book isbn="0739435248" isbn13="9780739435243">
+    <title>Queen's Own: Arrows of the Queen ; Arrow's Flight ; Arrow's Fall</title>
+    <author>Mercedes Lackey, </author>
+    <publisher publisher_id="sfbc">SFBC</publisher>
+  </book>
+  <book isbn="0553270540" isbn13="9780553270549">
+    <title>Silverthorn</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, 2004.</publisher>
+  </book>
+  <book isbn="0553564935" isbn13="9780553564938">
+    <title>Magician, master</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam_books">New York ; Bantam Books, 1994.</publisher>
+  </book>
+  <book isbn="0380720868" isbn13="9780380720866">
+    <title>Shadow of a dark queen</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="avon">New York: Avon, c1994.</publisher>
+  </book>
+  <book isbn="0380795280" isbn13="9780380795284">
+    <title>Krondor: Tear of the Gods</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="harpertorch">HarperTorch</publisher>
+  </book>
+  <book isbn="0553263285" isbn13="9780553263282">
+    <title>A darkness at Sethanon</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam">New York ; Bantam, 1994, c1986.</publisher>
+  </book>
+  <book isbn="0553579908" isbn13="9780553579901">
+    <title>A clash of kings</title>
+    <author>George R. R. Martin</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, 1999.</publisher>
+  </book>
+  <book isbn="0812511751" isbn13="9780812511758">
+    <title>The Elvenbane</title>
+    <author>Andre Norton and Mercedes Lackey</author>
+    <publisher publisher_id="tor">New York : Tor, 1991.</publisher>
+  </book>
+  <book isbn="0812508483" isbn13="9780812508482">
+    <title>Assassin</title>
+    <author>David Hagberg, </author>
+    <publisher publisher_id="forge_books">Forge Books</publisher>
+  </book>
+  <book isbn="0765311054" isbn13="9780765311054">
+    <title>Blasphemy</title>
+    <author>Douglas Preston</author>
+    <publisher publisher_id="forge_books">New York : Forge Books, 2008, c2007.</publisher>
+  </book>
+  <book isbn="0446522996" isbn13="9780446522991">
+    <title>The letter of the law</title>
+    <author>Tim Green</author>
+    <publisher publisher_id="warner_books">New York : Warner Books, c2000.</publisher>
+  </book>
+  <book isbn="0345478991" isbn13="9780345478993">
+    <title>The faithful spy</title>
+    <author>Alex Berenson</author>
+    <publisher publisher_id="random_house">New York : Random House, c2006.</publisher>
+  </book>
+  <book isbn="1594743347" isbn13="9781594743344">
+    <title>Pride and Prejudice and Zombies</title>
+    <author>Jane Austen, Seth Grahame-Smith, </author>
+    <publisher publisher_id="quirk_books">Quirk Books</publisher>
+  </book>
+  <book isbn="0553801503" isbn13="9780553801507">
+    <title>A feast for crows</title>
+    <author>George R. R. Martin</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, 2005.</publisher>
+  </book>
+  <book isbn="0553563734" isbn13="9780553563733">
+    <title>The King's buccaneer</title>
+    <author>by Raymond E. Feist</author>
+    <publisher publisher_id="doubleday">New York : Doubleday, c1992.</publisher>
+  </book>
+  <book isbn="0553564943" isbn13="9780553564945">
+    <title>Magician, apprentice</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam_books">New York ; Bantam Books, 1994.</publisher>
+  </book>
+  <book isbn="0553285246" isbn13="9780553285246">
+    <title>Prince of the blood</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam_books">New York : Bantam Books, 1990, c1989.</publisher>
+  </book>
+  <book isbn="0380789833" isbn13="9780380789832">
+    <title>Shards of a Broken Crown</title>
+    <author></author>
+    <publisher publisher_id="harpercollins_publishers">HarperCollins Publishers.</publisher>
+  </book>
+  <book isbn="0380720884" isbn13="9780380720880">
+    <title>Rage of a Demon King</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="eos">Eos</publisher>
+  </book>
+  <book isbn="0380720876" isbn13="9780380720873">
+    <title>Rise of a merchant prince</title>
+    <author></author>
+    <publisher publisher_id="morrow">Morrow, c1995.</publisher>
+  </book>
+  <book isbn="0451459776" isbn13="9780451459770">
+    <title>Flights</title>
+    <author>edited by Al Sarrantonio</author>
+    <publisher publisher_id="new_american_library">New York : New American Library, 2004.</publisher>
+  </book>
+  <book isbn="0871317052" isbn13="9780871317056">
+    <title>The army of the Caesars</title>
+    <author>Michael Grant</author>
+    <publisher publisher_id="m_evans">New York : M. Evans, [1992?], c1974.</publisher>
+  </book>
+  <book isbn="0061031321" isbn13="9780061031328">
+    <title>Thief of time</title>
+    <author>Terry Pratchett</author>
+    <publisher publisher_id="harpertorch">New York, N.Y. : HarperTorch, [2002], c2001.</publisher>
+  </book>
+  <book isbn="038097715X" isbn13="9780380977154">
+    <title>Krondor, the betrayal</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="avon_books">New York : Avon Books, c1998.</publisher>
+  </book>
+  <book isbn="0345339681" isbn13="9780345339683">
+    <title>The Hobbit, or, There and back again</title>
+    <author>by J. R. R. Tolkien</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1982.</publisher>
+  </book>
+  <book isbn="0886776155" isbn13="9780886776152">
+    <title>When True Night Falls</title>
+    <author>C. S. Friedman, </author>
+    <publisher publisher_id="daw">DAW</publisher>
+  </book>
+  <book isbn="0553577239" isbn13="9780553577235">
+    <title>The Bone Doll's Twin</title>
+    <author>LYNN FLEWELLING, </author>
+    <publisher publisher_id="spectra">Spectra</publisher>
+  </book>
+  <book isbn="0440213525" isbn13="9780440213529">
+    <title>The client</title>
+    <author>John Grisham</author>
+    <publisher publisher_id="island">New York : Island, 1994, c1993.</publisher>
+  </book>
+  <book isbn="0061139076" isbn13="9780061139079">
+    <title>The Sharing Knife</title>
+    <author>Lois McMaster Bujold, </author>
+    <publisher publisher_id="eos">Eos</publisher>
+  </book>
+  <book isbn="0060574747" isbn13="9780060574741">
+    <title>The hallowed hunt</title>
+    <author>Lois McMaster Bujold</author>
+    <publisher publisher_id="harpercollins">New York : HarperCollins, 2005.</publisher>
+  </book>
+  <book isbn="0812551486" isbn13="9780812551488">
+    <title>Temple of the winds</title>
+    <author>Terry Goodkind</author>
+    <publisher publisher_id="tor">New York, N.Y. : Tor, c1997.</publisher>
+  </book>
+  <book isbn="0345272609" isbn13="9780345272607">
+    <title>The return of the king</title>
+    <author>with a foreword by the author</author>
+    <publisher publisher_id="ballantine_books">New York : Ballantine Books, 1965.</publisher>
+  </book>
+  <book isbn="0905712609" isbn13="9780905712604">
+    <title>The Shining</title>
+    <author>Stephen King</author>
+    <publisher publisher_id="octopus_heinemann">New York : Octopus/Heinemann, c1981.</publisher>
+  </book>
+  <book isbn="0786906618" isbn13="9780786906611">
+    <title>Elminster in Myth Drannor</title>
+    <author>Ed Greenwood</author>
+    <publisher publisher_id="tsr">[Renton, Wash.?] : TSR, c1997.</publisher>
+  </book>
+  <book isbn="0756701228" isbn13="9780756701222">
+    <title>Justice on Trial</title>
+    <author>Wade Henderson, </author>
+    <publisher publisher_id="diane_pub_co_a02">Diane Pub Co</publisher>
+  </book>
+  <book isbn="0441756980" isbn13="9780441756988">
+    <title>The dragon at war</title>
+    <author>Gordon R. Dickson</author>
+    <publisher publisher_id="ace_books">New York : Ace Books, c1992.</publisher>
+  </book>
+  <book isbn="0380979039" isbn13="9780380979035">
+    <title>Forge of heaven</title>
+    <author>C. J. Cherryh</author>
+    <publisher publisher_id="eos">New York : EOS, c2004.</publisher>
+  </book>
+  <book isbn="0425178269" isbn13="9780425178263">
+    <title>Captain Kilburnie</title>
+    <author>William P. Mack, </author>
+    <publisher publisher_id="berkley_trade">Berkley Trade</publisher>
+  </book>
+  <book isbn="037582670X" isbn13="9780375826702">
+    <title>Eldest</title>
+    <author>Christopher Paolini</author>
+    <publisher publisher_id="alfred_a_knopf">New York : Alfred A. Knopf : c2005.</publisher>
+  </book>
+  <book isbn="156076936X" isbn13="9781560769361">
+    <title>Elminster: The Making of a Mage</title>
+    <author>Ed Greenwood, </author>
+    <publisher publisher_id="distributed_by_random_house">Distributed by Random House</publisher>
+  </book>
+  <book isbn="1560766700" isbn13="9781560766704">
+    <title>I, Strahd</title>
+    <author>P. N. Elrod</author>
+    <publisher publisher_id="tsr_inc">Lake Geneva, WI : TSR, Inc., c1993.</publisher>
+  </book>
+  <book isbn="0345441222" isbn13="9780345441225">
+    <title>Immortalis</title>
+    <author>R. A. Salvatore</author>
+    <publisher publisher_id="random_house_ballantine_pub_gr">New York : Random House Ballantine Pub. Group, 2003.</publisher>
+  </book>
+  <book isbn="0786913657" isbn13="9780786913657">
+    <title>Silverfall</title>
+    <author>Ed Greenwood</author>
+    <publisher publisher_id="tsr">Renton, WA : TSR, c1999.</publisher>
+  </book>
+  <book isbn="0312864299" isbn13="9780312864293">
+    <title>The last dragonlord</title>
+    <author>Joanne Bertin</author>
+    <publisher publisher_id="tom_doherty_associates">New York : Tom Doherty Associates, 1998.</publisher>
+  </book>
+  <book isbn="0756401801" isbn13="9780756401801">
+    <title>Survival</title>
+    <author>Julie E. Czerneda, </author>
+    <publisher publisher_id="daw_books">Daw Books</publisher>
+  </book>
+  <book isbn="0752527665" isbn13="9780752527666">
+    <title>The little book of Celtic myths &amp; legends / Joules Taylor</title>
+    <author></author>
+    <publisher publisher_id="">Parragon, 1999.</publisher>
+  </book>
+  <book isbn="0553258575" isbn13="9780553258578">
+    <title>Dragonworld</title>
+    <author>Byron Preiss, Michael Reaves, Joseph Zucker (Illustrator), </author>
+    <publisher publisher_id="spectra">Spectra</publisher>
+  </book>
+  <book isbn="0553277839" isbn13="9780553277838">
+    <title>Faerie tale</title>
+    <author>Raymond E. Feist</author>
+    <publisher publisher_id="bantam_books">Toronto ; Bantam Books, 1989, c1988.</publisher>
+  </book>
+  <book isbn="0886778026" isbn13="9780886778026">
+    <title>Owlsight</title>
+    <author>Mercedes Lackey &amp; Larry Dixon</author>
+    <publisher publisher_id="daw_books">New York : DAW Books, c1998.</publisher>
+  </book>
+</books>

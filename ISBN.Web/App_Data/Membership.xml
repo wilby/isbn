@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<XmlProvider>
+  <Users>
+    <!--
+    <User>
+      <ApplicationId>/</ApplicationId>
+      <UserName></UserName>
+      <PasswordSalt></PasswordSalt>
+      <Password></Password>
+      <Email></Email>
+      <PasswordQuestion></PasswordQuestion>
+      <PasswordAnswer></PasswordAnswer>
+      <IsApproved></IsApproved>
+      <IsLockedOut></IsLockedOut>
+      <CreateDate></CreateDate>
+      <LastLoginDate></LastLoginDate>
+      <LastActivityDate></LastActivityDate>
+      <LastPasswordChangeDate></LastPasswordChangeDate>
+      <LastLockoutDate></LastLockoutDate>
+      <FailedPasswordAttemptCount></FailedPasswordAttemptCount>
+      <FailedPasswordAnswerAttemptCount></FailedPasswordAnswerAttemptCount>
+      <Comment></Comment>
+    </User>
+    -->
+    <User>
+      <ApplicationId>MyApp</ApplicationId>
+      <UserName>wilby</UserName>
+      <PasswordSalt>KZnMaw==</PasswordSalt>
+      <Password>GSEDX2VBjTrMYa6yW2t4HVWtLTo=</Password>
+      <Email>jacksw02@gmail.com</Email>
+      <PasswordQuestion></PasswordQuestion>
+      <PasswordAnswer />
+      <IsApproved>True</IsApproved>
+      <IsLockedOut>False</IsLockedOut>
+      <CreateDate>11/2/2012 8:31:40 PM</CreateDate>
+      <LastLoginDate>11/3/2012 11:48:12 AM</LastLoginDate>
+      <LastActivityDate>1/1/0001 12:00:00 AM</LastActivityDate>
+      <LastPasswordChangeDate>1/1/0001 12:00:00 AM</LastPasswordChangeDate>
+      <LastLockoutDate>1/1/0001 12:00:00 AM</LastLockoutDate>
+      <FailedPasswordAttemptCount>0</FailedPasswordAttemptCount>
+      <FailedPasswordAnswerAttemptCount>0</FailedPasswordAnswerAttemptCount>
+      <Comment></Comment>
+    </User>
+  </Users>
+  <Roles>
+    <!-- <Role>
+      <ApplicationId>/</ApplicationId>
+      <RoleName></RoleName>
+      <Description></Description>
+    </Role> -->
+    <Role>
+      <ApplicationId>MyApp</ApplicationId>
+      <RoleName>Admins</RoleName>
+    </Role>
+  </Roles>
+  <UserRoles>
+    <!-- <UserRole>
+        <ApplicationId></ApplicationId>
+        <UserName></UserName>
+        <RoleName></RoleName>
+    <UserRole> -->
+    <UserRole>
+      <ApplicationId>MyApp</ApplicationId>
+      <RoleName>Admins</RoleName>
+      <UserName>wilby</UserName>
+    </UserRole>
+  </UserRoles>
+</XmlProvider>

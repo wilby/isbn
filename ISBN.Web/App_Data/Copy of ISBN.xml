@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book isbn="031609756X" isbn13="9780316097567">
+    <title>Guilty Wives</title>
+    <author>James Patterson, David Ellis, </author>
+    <publisher publisher_id="little_brown_and_company_a01">Little, Brown and Company</publisher>
+  </book>
+  <book isbn="0316126691" isbn13="9780316126694">
+    <title>The Art of Fielding: A Novel</title>
+    <author>Chad Harbach, </author>
+    <publisher publisher_id="little_brown_and_company_a01">Little, Brown and Company</publisher>
+  </book>
+  <book isbn="1451648537" isbn13="9781451648539">
+    <title>iSteve: The Book of Jobs</title>
+    <author>Walter Isaacson, </author>
+    <publisher publisher_id="simon_schuster">Simon &amp; Schuster</publisher>
+  </book>
+  <book isbn="074325807X" isbn13="9780743258074">
+    <title>Benjamin Franklin </title>
+    <author>Walter Isaacson, </author>
+    <publisher publisher_id="simon_schuster">Simon &amp; Schuster</publisher>
+  </book>
+  <book isbn="0743286979" isbn13="9780743286978">
+    <title>Kissinger</title>
+    <author>Walter Isaacson</author>
+    <publisher publisher_id="simon_schuster_paperbacks">New York : Simon &amp; Schuster Paperbacks, c2005.</publisher>
+  </book>
+  <book isbn="1451683227" isbn13="9781451683226">
+    <title>The Wise Men</title>
+    <author>Walter Isaacson, Evan Thomas, </author>
+    <publisher publisher_id="simon_schuster">Simon &amp; Schuster</publisher>
+  </book>
+  <book isbn="1932841660" isbn13="9781932841664">
+    <title>I, Steve: Steve Jobs in His Own Words</title>
+    <author>George Beahm (Editor)</author>
+    <publisher publisher_id="agate_b2">Agate B2</publisher>
+  </book>
+</books>

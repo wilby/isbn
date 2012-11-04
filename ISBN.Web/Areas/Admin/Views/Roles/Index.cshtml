@@ -1,0 +1,42 @@
+﻿@model string[]
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add Role", "Add")
+</p>
+<table>
+    <tr>     
+        <th colspan="2">Role Actions</th>                
+        <th>
+            Role Name
+        </th>   
+        <th colspan="2">User-Role Actions</th>   
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>        
+        <td>
+            @Html.ActionLink("Edit Role", "Edit", new {  id=item  })           
+        </td>
+        <td>
+            @Html.ActionLink("Delete Role", "Delete", new { id=item })
+        </td>           
+        <td class="table-column-accent">
+            @item
+        </td>   
+        <td>
+            @Html.ActionLink("View Users In Role", "UsersInRole", new { roleName = item })
+        </td>
+        <td>
+            @Html.ActionLink("Add User To Role", "AddUserToRole", new {  roleName=item  })           
+        </td>             
+    </tr>
+}
+
+</table>

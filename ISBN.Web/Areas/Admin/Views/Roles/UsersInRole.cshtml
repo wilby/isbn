@@ -1,0 +1,24 @@
+﻿@model ISBN.Web.Areas.Admin.Models.RoleUsers
+
+@{
+    ViewBag.Title = "UsersInRole";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>UsersInRole</h2>
+
+@Html.LabelFor(x => x.RoleName)
+<h3>
+    @Html.DisplayFor(x => x.RoleName)
+</h3>
+<table>
+    <tr><td></td><td>User</td></tr>
+    @foreach (var user in Model.UserNames)
+    {
+        <tr>
+            <td>@Html.ActionLink("Delete", "DeleteUserRole", new { username=user, roleName = Model.RoleName })</td>
+            <td>@user</td>
+        </tr>
+    }
+
+</table>
